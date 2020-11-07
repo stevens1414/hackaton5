@@ -63,8 +63,10 @@ main{
 }
 .cabecera a{
     color: rgb(131, 131, 131);
-    margin-left: 20px;
+    margin-left: 50px;
     font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    
 }
 
 /*banner*/
@@ -79,7 +81,7 @@ main{
     
 }
 .blog{
-    left: 32%;
+    left: 35%;
     top: 15%;
     width:30%;
     
@@ -183,4 +185,14 @@ main{
      line-height: 1.3;
      margin: 0px 25px 15px 0px ;
  
+ }
+ .tex h2 {
+    font-weight: 600;
+    float: right;
+    margin: 40px 0px 40px 0px;
+ }
+ .line{
+     border: solid 1px rgba (0, 0, 0, 0.2);
+     margin-bottom: 50px;
+     width: 100%;
  }
